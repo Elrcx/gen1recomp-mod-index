@@ -1,0 +1,20 @@
+{
+  "id": "rotate_down_after_heal",
+  "title": "Rotate Down After Heal",
+  "author": "Elrcx",
+  "version": "1.0.0",
+  "categories": [
+    "QOL"
+  ],
+  "repo": "https://github.com/Elrcx/gen1recomp-mod-heal-rotate",
+  "summary": "Rotates the player down after Pokemon Center heal to prevent accidentally repeating the dialogue.",
+  "tags": [
+    "qol",
+    "overworld",
+    "pokemon-center"
+  ],
+  "github": "Elrcx/gen1recomp-mod-heal-rotate",
+  "license": "MIT",
+  "api": 2,
+  "profile": "content"
+}
